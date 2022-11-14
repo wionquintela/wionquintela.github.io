@@ -1,0 +1,97 @@
+@font-face {
+    font-family: pogiSiWionQuintela;
+    src: url(fonts/librefranklin-bold.ttf);
+}
+
+body {
+    margin: 0;
+    color: white;
+    background-color: #212F3C;
+    overflow-x: hidden;
+    font-family: pogiSiWionQuintela;
+}
+
+section {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 400px;
+    padding: 100px 20vw;
+}
+
+.main {
+    background-color: #0066FF;
+}
+
+.text {
+    white-space: nowrap;
+}
+
+.main2 {
+    background-color: #F7770F;
+}
+
+.reactlogo, .nodelogo, .jslogo {
+    width: 50px;
+}
+
+#pic {
+    width: 100px;
+    border-radius: 50px;
+}
+
+.spacer {
+    aspect-ratio: 960/300;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.mainwave {
+    background-image: url("./mainwave.svg");
+}
+
+.sectionwave {
+    background-image: url("./sectionwave.svg");
+}
+
+.projwave {
+    background-image: url('./projwave.svg');
+}
+
+.proj {
+    background-color: #8124c7;
+}
+
+.projlink {
+    color: orangered;
+}
+
+
+.projlink:hover {
+    color: lime;
+}
+
+.flip {
+    transform: rotate(180deg);
+}
+
+.link, .projlink {
+    text-decoration: none;
+}
+
+.link:hover {
+    color: yellow;
+}
+
+.sociallink {
+    color: rgb(219, 219, 219);
+    text-decoration: none;
+}
+
+.sociallink:hover {
+    color: #ffffff;
+}
+
