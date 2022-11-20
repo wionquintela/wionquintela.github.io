@@ -1,0 +1,8 @@
+@font-face {
+    font-family: a;
+    src: url("./fonts/Poppins-Medium.otf");
+}
+
+* {
+    font-family: a;
+}

@@ -1,16 +1,13 @@
-import { Link } from "react-router-dom";
-
 export default function Projects() {
+    const style = {
+        width: "300px"
+    }
     return (
         <div>
-            <section className="proj">
-            <h1>Projects</h1>
-            <Link className="sociallink" to="/">Home</Link>
-            {/* <h2>To my backend project</h2>
-            <Link className="sociallink" to="/projects/backend">Backend</Link> */}
-            </section>
-            <div className="spacer projwave"></div>
-            <h1 className="text-center">SOON!</h1>
+           <section id="projects">
+                <h1 className="wow fadeInUp text-center">Projects</h1>
+                <img src="https://media.tenor.com/ZTGU6ZZO6Q0AAAAi/coming-soon-clerks-iii.gif" style={style} className="wow tada"/>
+            </section> 
         </div>
     )
 }

@@ -20,6 +20,25 @@ section {
     padding: 100px 20vw;
 }
 
+.textHover1:hover {
+    color: orange;;
+}
+.textHover2:hover {
+    color: orange;
+}
+.textHover3:hover {
+    color: orange;}
+.textHover4:hover {
+    color: orange;}
+.textHover5:hover {
+    color: orange;}
+.textHover6:hover {
+    color: orange;}
+
+.navLink, .npy {
+    color: #0066FF;
+}
+
 .main {
     background-color: #0066FF;
 }
@@ -58,7 +77,7 @@ section {
 }
 
 .projwave {
-    background-image: url('./projwave.svg');
+    background-image: url('./projpeaks.svg');
 }
 
 .proj {
@@ -80,10 +99,11 @@ section {
 
 .link, .projlink {
     text-decoration: none;
+    color: rgb(199, 199, 199);
 }
 
 .link:hover {
-    color: yellow;
+    color: rgb(255, 255, 255);
 }
 
 .sociallink {
@@ -91,6 +111,27 @@ section {
     text-decoration: none;
 }
 
+.navlink {
+    color: rgb(219, 219, 219);
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.navlink:hover {
+    color: #ffffff;
+}
+
+.aboutlink {
+    color: rgb(219, 219, 219);
+    text-decoration: none;
+    background-color: #A04000;
+    padding: 10px;
+}
+
+.aboutlink:hover {
+    color: #ffffff;
+    background-color: #b84900;
+}
 .sociallink:hover {
     color: #ffffff;
 }
