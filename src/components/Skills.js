@@ -2,7 +2,7 @@ export default function Skills() {
     return (
         <div id="skills">
              <section>
-                <h1 className="wow fadeInUp" >Skills</h1>
+                <h1 className="wow fadeInUp">My Skills</h1>
                 <p className="wow fadeInLeft">In programming, I am currently studying front-end development. It is more focus on the client side or what the users see on the website, I usually focus my skill in that zone. My skills involve basic knowledge of HTML, CSS, and JavaScript. I'm also currently studying ReactJS, which is a JavaScript library that makes my code composable and easy to edit and access. In terms of design I use the Bootstrap framework mainly because of its simplicity and cleanliness.</p>
                 <div className="row row-cols-3 text-center">
                 <div className="col">
