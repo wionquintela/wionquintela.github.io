@@ -18,6 +18,9 @@ export default function Skills() {
                     <div className="col">
                         <img className="m-4 nodelogo wow fadeInUp" src="https://user-images.githubusercontent.com/2327532/39481401-fa7d2992-4d30-11e8-886d-c4a3ee88147f.png" data-wow-delay=".5s"/>
                     </div>
+                    <div className="col">
+                        <img className="m-4 jslogo wow fadeInUp" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" data-wow-delay=".6s"/>
+                    </div>
                 </div>
             </section>
         </div>
