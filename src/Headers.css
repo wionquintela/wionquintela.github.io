@@ -12,12 +12,12 @@ body {
 }
 
 section {
-    position: relative;
+    /* position: relative;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; */
     min-height: 400px;
-    padding: 100px 20vw;
+    padding: 100px 10vw;
 }
 
 .textHover1:hover {
@@ -115,6 +115,15 @@ section {
     color: rgb(219, 219, 219);
     text-decoration: none;
     margin-left: 20px;
+}
+
+.footerlink {
+    padding: 5px;
+    color: rgb(199, 199, 199);
+}
+
+.footerlink:hover {
+    color: #fff;
 }
 
 .navlink:hover {

@@ -15,7 +15,7 @@ export default function Projects() {
         <div>
             <div className="spacer projwave"></div>
             <section className="proj" id="gallery">
-            <h1 style={style} className="wow fadeInUp">Gallery</h1>
+            <h1 style={style} className="wow fadeInUp text-center display-1">Gallery</h1>
             <Button className="wow fadeInUp" onClick={() => setState(!state)} showAdd={state}/>
             {state && <ProjCarousel hue={state ? "green" : "red"}/>}
             {}
