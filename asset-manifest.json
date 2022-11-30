@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cfa6adf.css",
-    "main.js": "/static/js/main.79cc7f54.js",
+    "main.css": "/static/css/main.35e762e4.css",
+    "main.js": "/static/js/main.e19c0b64.js",
     "static/media/propayl.jpg": "/static/media/propayl.f2186453d2c1a1eb71aa.jpg",
     "static/media/Poppins-Medium.otf": "/static/media/Poppins-Medium.2175351766d1d5e18c15.otf",
     "static/media/librefranklin-bold.ttf": "/static/media/librefranklin-bold.46b4e75eaf417d64e113.ttf",
+    "static/media/maintenance.png": "/static/media/maintenance.bf4edc10d688375e996f.png",
     "index.html": "/index.html",
     "static/media/projpeaks.svg": "/static/media/projpeaks.f85f04c0b10dc9d3a656.svg",
     "static/media/mainwave.svg": "/static/media/mainwave.ae2b9cb9b2ad4f1005fd.svg",
     "static/media/sectionwave.svg": "/static/media/sectionwave.813b49361d63174d00f6.svg",
-    "main.6cfa6adf.css.map": "/static/css/main.6cfa6adf.css.map",
-    "main.79cc7f54.js.map": "/static/js/main.79cc7f54.js.map"
+    "main.35e762e4.css.map": "/static/css/main.35e762e4.css.map",
+    "main.e19c0b64.js.map": "/static/js/main.e19c0b64.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cfa6adf.css",
-    "static/js/main.79cc7f54.js"
+    "static/css/main.35e762e4.css",
+    "static/js/main.e19c0b64.js"
   ]
 }
