@@ -25,8 +25,8 @@ export default function About() {
                 </div> */}
 
                 <div className="clearfix">
-                <img src={require("./img/propayl.jpg")} className="wow fadeInRight col-md-6 float-md-end mb-3 ms-md-3 img-fluid" style={pic} alt="..." />
-                <p className="wow fadeInLeft" >My name is Wion M. Quintela, and I became interested in programming back in January out of curiosity. I started programming in Python and learn from watching in YouTube. Usually when I am not coding, I play my guitar and bass, watch TV shows, play Steam Games like TF2 and Brawlhalla, listen to some good music including Arctic Monkeys and Drake, and occasionally create and publish my animations on YouTube. Currently, I am focusing on my studies since I am now in Senior High School and I need to be always learning because it is different from Junior High School which was more laid-back, but the subjects now are more vigorous and mind-melting, and I hate Gen Chem.</p>
+                <img src={require("./img/nheega.jpg")} className="wow fadeInRight col-md-6 float-md-end mb-3 ms-md-3 img-fluid" style={pic} alt="..." />
+                <p className="wow fadeInLeft" >My name is Wion M. Quintela, and I became interested in programming back in January out of curiosity. I started programming in Python and learn from watching in YouTube. Usually when I am not coding, I play my guitar and bass, watch TV shows, play some games on PS$, listen to some good music including Arctic Monkeys and Drake, and occasionally create and publish my animations on YouTube. Currently, I am focusing on my studies since I am now in 12th Grade Senior High.</p>
                 {/* <Link className="aboutlink wow fadeInUp mt-3" to="/socials">Socials</Link> */}
                 </div>
             </section>
