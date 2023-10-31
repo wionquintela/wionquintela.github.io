@@ -14,7 +14,7 @@ export default function Footer({ }) {
                 <a href="https://www.youtube.com/channel/UC4WftbieTcS90rvqLTguyZA" className="sociallink">YouTube</a>
                 <a href="https://github.com/rocketexpert" className="sociallink">GitHub</a>
                 <Link className="sociallink" to="/">Home</Link> */}
-                <p className="sociallink  wow fadeIn">Developed by Wion Quintel @ 2022</p>
+                <p className="sociallink  wow fadeIn">Developed by Wion Quintela @ 2022-2023</p>
                 <div className="mysocmedlinks">
                   <a href="https://web.facebook.com/wion.quintela06/" className="footerlink"><i class="fa-brands fa-facebook"></i></a>
                   <a href="https://www.youtube.com/channel/UC4WftbieTcS90rvqLTguyZA" className="footerlink"><i class="fa-brands fa-youtube"></i></a> 
